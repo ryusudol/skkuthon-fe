@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 36px;
+  background-image: linear-gradient(to right, #eeeeff, cornflowerblue 200%);
+}
+
+.logoTitle {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.logoTitle:hover {
+  cursor: pointer;
+}
+
+.loginBtn {
+  padding: 8px 20px;
+  height: 36px;
+  background-color: cornflowerblue;
+  border: none;
+  border-radius: 14%;
+  font-size: 1rem;
+  color: black;
+}
